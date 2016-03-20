@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CalendarPad2()
+comment1.params=text
+comment1.target=void\ setShowDayTextField2(javax.swing.JTextField[])
+comment2.params=calendarMessage2
+comment2.target=void\ setCalendarMessage2(CalendarMessage2)
+comment3.params=
+comment3.target=void\ showMonthCalendar2()
+numComments=4

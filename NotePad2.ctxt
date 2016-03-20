@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NotePad2()
+comment1.params=e
+comment1.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment2.params=year\ month\ day
+comment2.target=void\ setShowMessage2(int,\ int,\ int)
+comment3.params=dir\ year\ month\ day
+comment3.target=void\ read(java.io.File,\ int,\ int,\ int)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5

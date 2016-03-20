@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=year
+comment0.target=void\ setYear(int)
+comment1.params=
+comment1.target=int\ getYear()
+comment2.params=month
+comment2.target=void\ setMonth(int)
+comment3.params=
+comment3.target=int\ getMonth()
+comment4.params=
+comment4.target=java.lang.String[]\ getCalendar()
+numComments=5

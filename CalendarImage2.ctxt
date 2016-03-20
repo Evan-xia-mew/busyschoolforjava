@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CalendarImage2()
+comment1.params=f
+comment1.target=void\ setImageFile(java.io.File)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3
